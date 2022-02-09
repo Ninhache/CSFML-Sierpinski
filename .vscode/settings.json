@@ -1,0 +1,24 @@
+{
+    "files.associations": {
+        "vertex.h": "c",
+        "atomic": "c",
+        "bit": "c",
+        "compare": "c",
+        "complex": "c",
+        "cstddef": "c",
+        "iterator": "c",
+        "limits": "c",
+        "memory": "c",
+        "sstream": "c",
+        "system_error": "c",
+        "type_traits": "c",
+        "xiosbase": "c",
+        "xlocale": "c",
+        "xutility": "c",
+        "audio.h": "c",
+        "config.h": "c",
+        "graphics.h": "c",
+        "system.h": "c",
+        "stdio.h": "c"
+    }
+}
